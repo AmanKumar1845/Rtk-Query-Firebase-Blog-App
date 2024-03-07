@@ -11,3 +11,12 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.header-test {
+  color: white;
+  font-weight: 600;
+  cursor: pointer;
+  margin-top: 5px;
+  padding: 5px;
+  font-size: 17px;
+}
